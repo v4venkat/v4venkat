@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m currently working as Data Integration Engineer
+🌱 I’m currently learning Advanced Machine Learning Models
+👯 I’m looking to collaborate with start-Ups
 <!--
 **v4venkat/v4venkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
